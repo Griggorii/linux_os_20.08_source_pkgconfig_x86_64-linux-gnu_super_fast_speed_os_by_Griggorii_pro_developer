@@ -9,6 +9,7 @@ pkgconfig source spec pc
 
 /usr/lib/x86_64-linux-gnu/pkgconfig/
 
+Orinal OS https://youtu.be/e3EGMEC1wqA?t=171
 
 
 
