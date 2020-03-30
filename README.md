@@ -11,5 +11,7 @@ pkgconfig source spec pc
 
 Orinal OS https://youtu.be/e3EGMEC1wqA?t=171
 
+/sbin/ldconfig.real binare structure mesa egl
+
 
 
