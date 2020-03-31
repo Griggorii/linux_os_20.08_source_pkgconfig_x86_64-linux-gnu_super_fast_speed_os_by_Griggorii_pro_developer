@@ -9,7 +9,7 @@ pkgconfig source spec pc
 
 /usr/lib/x86_64-linux-gnu/pkgconfig/
 
-Orinal OS https://youtu.be/e3EGMEC1wqA?t=171
+Original OS https://youtu.be/e3EGMEC1wqA?t=171
 
 /sbin/ldconfig.real binare structure mesa egl /etc/ld.so.conf.d conf mesa EGL , GL/X links folder
 
